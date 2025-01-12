@@ -8,7 +8,7 @@ $$\Large
 \text{An infinite family of pairing bijections} \ \mathbb{N} \times \mathbb{N} \to \mathbb{N}.
 $$
 
-Newly discovered pairing functions proportional to *product* of $x$ and $y$, rather than the square of larger argument. *ZPFs* for short. They are parametrized by a "base" argument $k \geq 2$, hence an infinite family.
+Newly discovered [pairing functions](https://en.wikipedia.org/wiki/Pairing_function) proportional to *product* of $x$ and $y$, rather than the square of larger argument. *ZPFs* for short. They are parametrized by a "base" argument $k \geq 2$, hence an infinite family.
 
 These pairing functions work best when:
 
