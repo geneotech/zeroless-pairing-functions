@@ -93,3 +93,13 @@ The best $k$ to use rises somewhat logarithmically in the magnitude of the large
 
 To naively encode/decode tuples by chaining calls to `pi_small` like we did, we need to know how many elements there are up front.
 Easy way to do this exists, but I will add this later on.
+
+# License
+[
+I hereby release this entire repository into the public domain under the [Creative Commons Zero (CC0) License](https://creativecommons.org/public-domain/cc0/).
+
+This is purely mathematical work, and you are free to use, modify, and distribute this knowledge as you wish without any restrictions.
+
+# Authors
+
+Patryk Czachurski, 2025.
