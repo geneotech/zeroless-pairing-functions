@@ -1,6 +1,14 @@
 # Zeroless Pairing Functions (ZPFs)
 
-Newly discovered pairing functions proportional to *product* of $x$ and $y$, rather than square of the larger argument. *ZPFs* for short.
+$$\Large
+\pi_k(x, y) = xk \mathbin\Vert_{k} Z_{k}(y)
+$$
+
+$$\Large
+\text{An infinite family of pairing bijections} \ \mathbb{N} \times \mathbb{N} \to \mathbb{N}.
+$$
+
+Newly discovered pairing functions proportional to *product* of $x$ and $y$, rather than the square of larger argument. *ZPFs* for short. They are parametrized by a "base" argument $k \geq 2$, hence an infinite family.
 
 These pairing functions work best:
 
