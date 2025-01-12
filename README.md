@@ -16,7 +16,7 @@ These pairing functions work best when:
 - and *especially* when **encoding tuples/sequences of arbitrary length.**
 
 This is just a reference implementation. If this catches interest, I will later optimize encoding/decoding speed or maybe even provide C equivalents.
-The explanation of math can be found in this **[math.stackexchange article]()**.
+The explanation of math can be found in this **[math.stackexchange article](https://math.stackexchange.com/questions/5022453/discovered-a-generalization-of-the-age-old-pairing-function-2y2x-1-1)**.
 
 # Benchmarks
 
