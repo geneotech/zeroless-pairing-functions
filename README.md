@@ -5,7 +5,7 @@ Newly discovered pairing functions proportional to *product* of $x$ and $y$, rat
 These pairing functions work best:
 
 - When $x$ and $y$ are on different orders of magnitude,
-- and when **encoding tuples/sequences.**
+- and *especially* when **encoding tuples/sequences.**
 
 This is just a reference implementation. If this catches interest, I will later optimize encoding/decoding speed or maybe even provide C equivalents.
 The explanation of math can be found in this **[math.stackexchange article]()**.
