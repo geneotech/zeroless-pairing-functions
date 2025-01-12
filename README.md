@@ -41,6 +41,10 @@ pi_10(10**35,10**35) = 100000000000000000000000000000000000043848214343976138965
 
 # Usage
 
+Run `python pi.py` to launch benchmarks, verify the equalities, and exit.
+
+Functions to use in your code (sorry this is not packaged yet):
+
 ```python
 pi_      (k, x, y)
 BIGPI_   (k, x, y)
