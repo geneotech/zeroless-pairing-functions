@@ -75,7 +75,7 @@ pi_tuple_3([args...])
 pi_tuple_10([args...])
 ```
 
-Note that the `k` in $\pi_k$ is not a "compression" factor. `k` should be empirically chosen depending on the maximum magnitude of $x$ and $y$ you plan to use it with. The decimal base $k = 10$ is a fine choice for reasonable values.
+`k` in $\pi_k$ is somewhat of a "compression" factor, **but it should be chosen empirically** depending on the maximum magnitude of $x$ and $y$ you plan to use it with. The decimal base $k = 10$ is a fine choice for reasonable values.
 
 $\pi_k$ is *not* monotonic in `k`. For example:
 
@@ -87,7 +87,7 @@ pi_(5,  39050, 1000)  = 610158559
 pi_(10, 39050, 1000)  = 3905001331
 ```
 
-The best $k$ to use rises somewhat logarithmically in the magnitude of the largest possible argument.
+The best $k$ to use rises very slowly, less than logarithmically in the magnitude of the largest possible argument.
 
 # Sequences of arbitrary length
 
