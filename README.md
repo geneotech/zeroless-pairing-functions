@@ -10,9 +10,9 @@ $$
 
 Newly discovered pairing functions proportional to *product* of $x$ and $y$, rather than the square of larger argument. *ZPFs* for short. They are parametrized by a "base" argument $k \geq 2$, hence an infinite family.
 
-These pairing functions work best:
+These pairing functions work best when:
 
-- When $x$ and $y$ are on different orders of magnitude,
+- $x$ and $y$ are on different orders of magnitude,
 - and *especially* when **encoding tuples/sequences of arbitrary length.**
 
 This is just a reference implementation. If this catches interest, I will later optimize encoding/decoding speed or maybe even provide C equivalents.
